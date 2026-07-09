@@ -118,13 +118,11 @@ body {
     font-weight: 800;
     line-height: 1.3;
     color: #000000;
+    margin-bottom: 5px;
 }
 
 .hero-text h1 .highlight {
     color: #f5a061;
-    display: block;
-    margin-top: 5px;
-    margin-bottom: 5px;
 }
 
 .hero-text p {
