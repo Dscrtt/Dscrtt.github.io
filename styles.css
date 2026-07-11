@@ -58,6 +58,13 @@ body {
     flex-shrink: 0;
 }
 
+.mode-btn{
+    font-size: 28px;
+    border:none;
+    background:transparent;
+    cursor:pointer; 
+}
+
 .nav-links {
     display: flex;
     list-style: none;
@@ -89,7 +96,7 @@ body {
     padding: 8px 24px;
     border-radius: 20px;
     background: transparent;
-    color: #000000;
+    color: var(--color);
     font-weight: 600;
     font-size: 0.9rem;
     cursor: pointer;
