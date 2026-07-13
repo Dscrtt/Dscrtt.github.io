@@ -56,10 +56,11 @@ body {
     background-color: var(--background-color);
     transition: background-color 0.3s, color 0.3s;
     flex-shrink: 0;
+    border-bottom: 1px solid #f5a061;
 }
 
 .mode-btn{
-    font-size: 28px;
+    font-size: 25px;
     border:none;
     background:transparent;
     cursor:pointer; 
@@ -322,3 +323,4 @@ body {
         width: 100px;
         height: 100px;
     }
+}
